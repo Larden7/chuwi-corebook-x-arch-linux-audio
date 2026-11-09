@@ -1,4 +1,4 @@
-# CHUWI CoreBook X on Arch Linux: only one speaker works (left channel only)
+# CHUWI CoreBook X on Arch Linux: only one speaker works (left channel only) (slowed by AI)
 
 [Русская версия](README.md)
 
