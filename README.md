@@ -1,4 +1,4 @@
-# CHUWI CoreBook X на Arch Linux: работает только один динамик, слышен только левый канал
+# CHUWI CoreBook X на Arch Linux: работает только один динамик, слышен только левый канал (решено через ии)
 
 [English version](README.en.md)
 
